@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Monkey D. Luffy",
-      "image": "https://www.pngall.com/wp-content/uploads/13/Luffy-PNG-Images.png",
+      "image": "https://i.pinimg.com/originals/21/8c/fa/218cfa1f763b2ef417cd43de2d00a621.jpg",
       "job": "Captain",
       "size": "174 cm",
       "birthday": "May 5",
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "name": "Roronoa Zoro",
-      "image": "https://www.pngall.com/wp-content/uploads/14/Zoro-PNG-Picture.png",
+      "image": "https://i.pinimg.com/736x/4b/76/5c/4b765c259f8cde22cff78c0f4771ad20.jpg",
       "job": "Swordsman",
       "size": "181 cm",
       "birthday": "November 11",
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "name": "Nami",
-      "image": "https://www.pngall.com/wp-content/uploads/14/Nami-PNG-Images-HD-300x225.png",
+      "image": "https://i.pinimg.com/736x/41/1e/db/411edbfc18652a25e56271b3c0120e46.jpg",
       "job": "Navigator",
       "size": "169 cm",
       "birthday": "July 3",
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "name": "Usopp",
-      "image": "https://www.pngall.com/wp-content/uploads/15/Usopp-PNG.png",
+      "image": "https://i.etsystatic.com/36816039/r/il/d49396/4232253737/il_570xN.4232253737_evqo.jpg",
       "job": "Sniper",
       "size": "176 cm",
       "birthday": "April 1",
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "name": "Sanji",
-      "image": "https://www.pngall.com/wp-content/uploads/14/Sanji-PNG-Images.png",
+      "image": "https://apreciart.pe/pub/media/catalog/product/o/n/poster-one-piece-vinsmoke-sanji.jpg",
       "job": "Cook",
       "size": "180 cm",
       "birthday": "March 2",
@@ -68,7 +68,7 @@
     {
       "id": 6,
       "name": "Tony Tony Chopper",
-      "image": "https://www.pngall.com/wp-content/uploads/15/Tony-Tony-Chopper-PNG-Image-File.png",
+      "image": "https://i.pinimg.com/736x/bf/2c/f9/bf2cf9baae7404230505757df738d826.jpg",
       "job": "Doctor",
       "size": "90 cm (Normal)",
       "birthday": "December 24",
@@ -81,7 +81,7 @@
     {
       "id": 7,
       "name": "Nico Robin",
-      "image": "https://www.pngmart.com/files/23/Nico-Robin-PNG-Image.png",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpmqFvGKuakmhOb-ZN9MZ1Z_aU7dBGGvXfw&s",
       "job": "Archaeologist",
       "size": "188 cm",
       "birthday": "February 6",
@@ -94,7 +94,7 @@
     {
       "id": 8,
       "name": "Franky",
-      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51158316-fd7e-48ca-b5fe-8542e9dfe357/dbcd4zg-86cecf14-a2ed-47ab-b064-22ea43401593.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTU4MzE2LWZkN2UtNDhjYS1iNWZlLTg1NDJlOWRmZTM1N1wvZGJjZDR6Zy04NmNlY2YxNC1hMmVkLTQ3YWItYjA2NC0yMmVhNDM0MDE1OTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PfbccuJ1K0IBXGhf1yn1xzxSrDech5-j4JWpaf11jAU",
+      "image": "https://i.pinimg.com/564x/04/2e/26/042e26bbf9dfd799eb36e287ebf31739.jpg",
       "job": "Shipwright",
       "size": "225 cm",
       "birthday": "March 9",
@@ -107,7 +107,7 @@
     {
       "id": 9,
       "name": "Brook",
-      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51158316-fd7e-48ca-b5fe-8542e9dfe357/dej5nr9-ceae2a1d-50bf-4f5e-8b78-56a468a08d38.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTU4MzE2LWZkN2UtNDhjYS1iNWZlLTg1NDJlOWRmZTM1N1wvZGVqNW5yOS1jZWFlMmExZC01MGJmLTRmNWUtOGI3OC01NmE0NjhhMDhkMzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mUCyk2Ee0kO0O33ebUlf2QBxCCJQqEwH5KLukTBbwUA",
+      "image": "https://i.pinimg.com/736x/fe/8e/cb/fe8ecb66f7dcd4939ced6b518d1d503f.jpg",
       "job": "Musician",
       "size": "277 cm",
       "birthday": "April 3",
@@ -120,7 +120,7 @@
     {
       "id": 10,
       "name": "Jinbe",
-      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-4754-9dd5-152b5bcd77f1/dgkiics-2c23989c-a965-4dc0-a086-ac590583edd6.png/v1/fill/w_400,h_430/jinbe_design_1_by_otaku_zonee_dgkiics-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmNjc0ZDU3LTY5ZjItNDc1NC05ZGQ1LTE1MmI1YmNkNzdmMVwvZGdraWljcy0yYzIzOTg5Yy1hOTY1LTRkYzAtYTA4Ni1hYzU5MDU4M2VkZDYucG5nIiwiaGVpZ2h0IjoiPD00MzAiLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzhmNjc0ZDU3LTY5ZjItNDc1NC05ZGQ1LTE1MmI1YmNkNzdmMVwvb3Rha3Utem9uZWUtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.aCvQL1An77yYcYc_IludiKQX0WDs7oif5bxban5PlN0",
+      "image": "https://i0.wp.com/ovicio.com.br/wp-content/uploads/2023/09/20230911-jimbe.jpg?resize=699%2C1024&ssl=1",
       "job": "Helmsman",
       "size": "301 cm",
       "birthday": "April 2",
