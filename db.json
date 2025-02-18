@@ -129,54 +129,6 @@
       "status": "Active",
       "crew": "Straw Hat Pirates",
       "fruit": "None"
-    },
-    {
-      "name": "Samuel",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK83ZiGRt3Csdsg0cPnTWARyASN1hBWoyYbQ&s",
-      "age": "29",
-      "bounty": "690000000",
-      "job": "ftvygbh",
-      "crew": "vgbhnjk",
-      "id": 11
-    },
-    {
-      "name": "drtfygu",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK83ZiGRt3Csdsg0cPnTWARyASN1hBWoyYbQ&s",
-      "age": "54",
-      "bounty": "64516456",
-      "job": "dfrgth",
-      "crew": "edrfg",
-      "id": 12
-    },
-    {
-      "name": "Fernando",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK83ZiGRt3Csdsg0cPnTWARyASN1hBWoyYbQ&s",
-      "age": "40",
-      "bounty": "15",
-      "job": "Medico",
-      "crew": "Mugiwara",
-      "fruit": "Ope ope",
-      "id": 13
-    },
-    {
-      "name": "dxfcvgh",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK83ZiGRt3Csdsg0cPnTWARyASN1hBWoyYbQ&s",
-      "age": "58",
-      "bounty": "865",
-      "job": "fgvbhnj",
-      "crew": "ytcfvgvyu",
-      "fruit": "ytfrcvgyu",
-      "id": 14
-    },
-    {
-      "name": "ersty",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK83ZiGRt3Csdsg0cPnTWARyASN1hBWoyYbQ&s",
-      "age": "55",
-      "bounty": "784",
-      "job": "erty",
-      "crew": "xetrcyv",
-      "fruit": "rtybh",
-      "id": 15
     }
   ]
 }
